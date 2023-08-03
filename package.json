@@ -1,0 +1,17 @@
+{
+  "name": "devpass",
+  "version": "1.0.0",
+  "description": "Password Vault App",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron main.js"
+  },
+  "keywords": [
+    "Password"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^25.4.0"
+  }
+}
